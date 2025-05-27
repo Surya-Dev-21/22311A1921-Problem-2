@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-4. Open the URL shown in the terminal (usually http://localhost:5173).
+4. Open the URL shown in the terminal (usually http://localhost:3000).
 
 ## Notes
 
